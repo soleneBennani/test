@@ -1,4 +1,2 @@
 hello 
 bonjour
-hi
-hola
